@@ -1,3 +1,6 @@
+Filetype: Flipper SubGhz RAW File
+Version: 1
+
 UP: /ext/subghz/Walgreens/Button Resets/PhotoCounter_RESET.sub
 
 DOWN: /ext/subghz/Walgreens/Button Reset/Photo_RESET.sub
