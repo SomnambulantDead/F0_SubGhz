@@ -1,0 +1,10 @@
+UP: /ext/subghz/Walgreens/PhotoCounter_RESET.sub
+DOWN: /ext/subghz/Walgreens/Photo_RESET.sub
+LEFT: /ext/subghz/Walgreens/FedExOnSite.sub
+RIGHT: /ext/subghz/Walgreens/FedExOnSite_RESET.sub
+OK: /ext/subghz/Walgreens/IC3.sub
+ULABEL: PhotoCntr_OFF
+DLABEL: Photo_OFF
+LLABEL: FedEx	
+RLABEL: FedEx_OFF
+OKLABEL: IC3
