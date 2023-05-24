@@ -1,3 +1,4 @@
+#Flipper SubGHz Remote
 UP: /ext/subghz/Walgreens/Button Reset/PhotoCounter_RESET.sub
 DOWN: /ext/subghz/Walgreens/Button Reset/Photo_RESET.sub
 LEFT: /ext/subghz/Walgreens/Help Button/FedExOnSite.sub
