@@ -1,11 +1,19 @@
-#Flipper SubGHz Remote
-UP: /ext/subghz/Walgreens/Button Reset/PhotoCounter_RESET.sub
+UP: /ext/subghz/Walgreens/Button Resets/PhotoCounter_RESET.sub
+
 DOWN: /ext/subghz/Walgreens/Button Reset/Photo_RESET.sub
-LEFT: /ext/subghz/Walgreens/Help Button/FedExOnSite.sub
-RIGHT: /ext/subghz/Walgreens/Button Reset/FedExOnSite_RESET.sub
-OK: /ext/subghz/Walgreens//Handheld Call Button/IC3.sub
+
+LEFT: /ext/subghz/Walgreens/Call Buttons/FedExOnSite.sub
+
+RIGHT: /ext/subghz/Button Resets/FedExOnSite_RESET.sub
+
+OK: /ext/subghz/Handheld Call Button/IC3.sub
+
 ULABEL: PhotoCntr_OFF
+
 DLABEL: Photo_OFF
-LLABEL: FedEx	
+
+LLABEL: FedEx
+
 RLABEL: FedEx_OFF
+
 OKLABEL: IC3
